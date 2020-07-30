@@ -1,0 +1,29 @@
+\begin{thebibliography}{}
+
+\bibitem[Google 2018]{developer:platform}
+Google (2018).
+\newblock Platform architecture | android developers.
+
+\bibitem[Pérez 2014]{martin}
+Pérez, M. (2014).
+\newblock {\em CONDITIONAL RESOURCE MANAGEMENT FOR MOBILE DEVICES}.
+\newblock {PhD} dissertation, Universidade Tecnológica Federal do Paraná.
+
+\bibitem[Qian et~al. 2012]{apache}
+Qian, X., Zhu, G., and Li, X.-F. (2012).
+\newblock Comparison and analysis of the three programming models in google
+  android.
+
+\bibitem[Stat 2018]{statcounter}
+Stat, S. C.~G. (2018).
+\newblock Mobile operating system market share worldwide.
+
+\bibitem[Wikipedia 2017]{wiki:cfq}
+Wikipedia (2017).
+\newblock Cfq - wikipedia.
+
+\bibitem[Wikipedia 2018]{wiki:c99}
+Wikipedia (2018).
+\newblock C99 - wikipedia.
+
+\end{thebibliography}
